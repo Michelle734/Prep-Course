@@ -2,13 +2,13 @@
 
 function devolverPrimerElemento(array) {
   // Devuelve el primer elemento de un  array (pasado por parametro)
-  // Tu código:
+  // Tu código: hola
 }
 
 
 function devolverUltimoElemento(array) {
   // Devuelve el último elemento de un array
-  // Tu código:
+  // Tu código:juli 
 }
 
 
